@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://github.com/XiaoCdeGitHub">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);面包和牛奶早晚都会有的!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+ <div>
+    <img src="https://count.getloli.com/get/@codeacg.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+</div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
