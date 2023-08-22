@@ -5,7 +5,11 @@
 </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<div align="center">
+	<a href="https://codeacg.com/">
+	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+	</a>
+</div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
