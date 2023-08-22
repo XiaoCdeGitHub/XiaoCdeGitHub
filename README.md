@@ -1,3 +1,4 @@
+<h1>脆脆鲨のGitHUb</h1>
 <div align="center">
 
  <div>
@@ -56,7 +57,7 @@
 
 <img align="right" width="88" src="https://cd-mapbed.oss-cn-beijing.aliyuncs.com/logo1.png" />
 
-- [北京熠智科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-07-10 —— Now
+- [北京熠智科技有限公司](https://yeez.tech/) &emsp; 📌 2023-07-10 —— Now
   
   - 工作岗位：Web前端开发工程师（初级）
   - 工作内容：隐私计算相关业务页面开发
