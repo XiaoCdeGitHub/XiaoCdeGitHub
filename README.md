@@ -2,7 +2,7 @@
 <div align="center">
 
  <div>
-    <img src="https://count.getloli.com/get/@codeacg.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
 </div>
 
   <!-- knock code pictures 敲代码的图片 -->
