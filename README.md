@@ -2,7 +2,7 @@
 <div align="center">
 
  <div>
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+<img src="https://cd-mapbed.oss-cn-beijing.aliyuncs.com/bg.png"></img>
 </div>
 
   <!-- knock code pictures 敲代码的图片 -->
