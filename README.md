@@ -1,4 +1,4 @@
-<h1>脆脆鲨のGitHUb</h1>
+<h1>脆脆鲨のGitHub</h1>
 <div align="center">
 
  <div>
